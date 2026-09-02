@@ -24,7 +24,7 @@ For GPU training, install the PyTorch build appropriate for the local CUDA versi
 
 ### Algorithm overview
 
-![plot](./fig_trace_pipeline.png)
+<img src="./fig_trace_pipeline.png" width="300">
 
 
 ## Train gradient coils

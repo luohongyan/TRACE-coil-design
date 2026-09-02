@@ -1,6 +1,6 @@
  <img src="./TRACE_Image.png" width="300">
 
-# TRACE coil design 
+# TRACE coil design by kevin
 
 The Project is a community-based tool for the generation of coil Layouts within the MRI/NMR environment.
 TRACE (Trajectory Reinforcement for Additive Coil dEsign) uses a PyTorch actor-critic policy to construct connected, finite-width gradient-coil layouts. 
